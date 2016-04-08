@@ -8,9 +8,9 @@
 	branch = global-tags
 [submodule "Upgrade/DDDB"]
 	path = Upgrade/DDDB
-	url = git@github.com:chrisburr/lhcb-databases-upgrade-simcond.git
+	url = git@github.com:chrisburr/lhcb-databases-upgrade-dddb.git
 	branch = global-tags
 [submodule "Upgrade/SIMCOND"]
 	path = Upgrade/SIMCOND
-	url = git@github.com:chrisburr/lhcb-databases-upgrade-dddb.git
+	url = git@github.com:chrisburr/lhcb-databases-upgrade-simcond.git
 	branch = global-tags
