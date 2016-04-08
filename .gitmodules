@@ -1,0 +1,3 @@
+[submodule "DDDB"]
+	path = DDDB
+	url = git@github.com:chrisburr/lhcb-databases-dddb.git
